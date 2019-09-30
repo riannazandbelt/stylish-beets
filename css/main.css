@@ -31,12 +31,20 @@ figcaption {
 }
 
 main + p {
-  font-size: 1.125rem
+  font-size: 1.125rem;
   font-style: bold;
 }
 
 ul {
   list-style-type: circle;
+}
+
+nav ol {
+  list-style-type: none;
+}
+
+aside ol {
+  list-style-type: lower-greek;
 }
 
 
