@@ -54,10 +54,6 @@ aside ol {
    font-style: italic;
  }
 
-.class > dt {
-  font-style: bold;
-}
-
 blockquote {
   font-size: 1.5rem;
   font-style: italic;
