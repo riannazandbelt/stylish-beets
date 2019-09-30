@@ -58,6 +58,9 @@ dl dt {
   font-style: bold;
 }
 
+blockquote {
+  font-size: 1.5rem;
+}
 
 
 Typefaces: PT Sans (bold), PT Serif (regular, italic, bold) — from Google Fonts
