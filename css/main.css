@@ -23,7 +23,8 @@ a {
 }
 
 h2 {
-  color: #3f1622
+  color: #3f1622;
+  font-style: normal;
 }
 
 figcaption {
