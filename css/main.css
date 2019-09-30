@@ -34,9 +34,9 @@ figcaption {
   font-size: .8rem;
 }
 
-main + p { *********
+main + p {
   font-size: 1.125rem;
-  font-style: bold;
+  font-weight: bold;
 }
 
 ul {
