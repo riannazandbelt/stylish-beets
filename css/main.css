@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: PT Sans, bold;
+  font-family: 'PT Serif', serif;
   line-height: 1.5;
 }
 
@@ -10,7 +10,7 @@ img {
 
 h1 {
   color: #3f1622;
-  font-family: PT Sans, bold;
+  font-family: 'PT Sans', bold;
 }
 
 a {
