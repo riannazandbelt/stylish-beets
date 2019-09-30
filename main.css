@@ -13,6 +13,13 @@ h1 {
   font-family: PT Sans, bold;
 }
 
+nav {
+  font-size: 1.125rem
+  font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+  color: #8f2440;
+}
+
 
 
 Typefaces: PT Sans (bold), PT Serif (regular, italic, bold) — from Google Fonts
