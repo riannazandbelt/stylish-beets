@@ -60,6 +60,7 @@ dl dt {
 
 blockquote {
   font-size: 1.5rem;
+  font-style: italic;
 }
 
 cite {
