@@ -34,7 +34,7 @@ figcaption {
   font-size: .8rem;
 }
 
-p + span {
+main + p {
   font-size: 1.125rem;
   font-weight: bold;
 }
