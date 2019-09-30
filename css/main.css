@@ -30,7 +30,7 @@ figcaption {
   font-size: .8rem;
 }
 
-main + p {
+figure + p {
   font-size: 1.125rem
   font-style: bold;
 }
