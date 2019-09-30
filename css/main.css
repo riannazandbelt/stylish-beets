@@ -30,7 +30,7 @@ figcaption {
   font-size: .8rem;
 }
 
-main + p {
+main p {
   font-style: bold;
 }
 Typefaces: PT Sans (bold), PT Serif (regular, italic, bold) — from Google Fonts
