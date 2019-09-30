@@ -51,6 +51,9 @@ aside ol {
    font-style: italic;
  }
 
+dl dt {
+  font-style: bold;
+}
 
 
 
