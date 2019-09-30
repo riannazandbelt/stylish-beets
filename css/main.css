@@ -47,7 +47,9 @@ nav ol {
 aside ol {
   list-style-type: lower-greek;
 }
-
+ h2 + p {
+   font-style: italic;
+ }
 
 
 
