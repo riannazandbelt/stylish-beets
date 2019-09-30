@@ -54,7 +54,7 @@ aside ol {
    font-style: italic;
  }
 
-dl > dt {
+.class > dt {
   font-style: bold;
 }
 
