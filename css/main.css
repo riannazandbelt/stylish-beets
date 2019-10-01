@@ -70,3 +70,7 @@ a:hover {
   color: #222;
   text-decoration: underline;
 }
+
+dt {
+  font-weight: bold;
+}
