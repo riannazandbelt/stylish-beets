@@ -79,7 +79,3 @@ dt {
 footer + p {
   font-size: .8rem;
 }
-
-main + b {
-  font-weight: bold;
-}
