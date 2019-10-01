@@ -28,7 +28,7 @@ h2 {
   color: #3f1622;
   font-style: normal;
   font-family: "PT Sans", sans-serif;
-  font-size: .8rem;
+  font-size: 1.125rem;
 }
 
 figcaption {
@@ -78,6 +78,7 @@ a:hover {
 
 dt {
   font-weight: bold;
+  font-size: 1.125rem;
 }
 
 footer + p {
