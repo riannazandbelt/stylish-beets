@@ -81,5 +81,5 @@ footer + p {
 }
 
 main + b {
-  font-style: bold;
+  font-weight: bold;
 }
