@@ -33,6 +33,7 @@ figcaption {
   font-family: "PT Serif", serif;
   font-style: italic;
   font-size: .8rem;
+  text-align: center;
 }
 
 p {
