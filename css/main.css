@@ -43,6 +43,7 @@ p {
 
 ul {
   list-style-type: circle;
+  font-size: .8rem
 }
 
 nav ol {
