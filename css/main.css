@@ -51,9 +51,10 @@ nav ol {
 aside ol {
   list-style-type: lower-greek;
 }
- span {
-   font-style: italic;
- }
+
+span {
+  font-style: italic;
+}
 
 blockquote {
   font-size: 1.5rem;
@@ -66,4 +67,5 @@ cite {
 
 a:hover {
   color: #222;
+  text-decoration: underline;
 }
